@@ -17,16 +17,16 @@
     ],
     "autoload": {
         "psr-4": {
-            "Genert\\Laravel\\Invoice\\": "src/"
+            "LouisCoetzee\\Laravel\\Invoice\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Genert\\Laravel\\Invoice\\InvoiceServiceProvider"
+                "LouisCoetzee\\Laravel\\Invoice\\InvoiceServiceProvider"
             ],
             "aliases": {
-                "Invoice": "Genert\\Laravel\\Invoice\\Facades\\Invoice"
+                "Invoice": "LouisCoetzee\\Laravel\\Invoice\\Facades\\Invoice"
             }
         }
     }
