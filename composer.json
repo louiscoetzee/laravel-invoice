@@ -1,10 +1,10 @@
 {
-    "name": "genert/laravel-invoice",
+    "name": "louiscoetzee/laravel-invoice",
     "description": "Laravel package for downloading invoice with included default receipt template",
     "type": "library",
     "require": {
         "dompdf/dompdf": "^0.8.0",
-        "illuminate/support": "^5.7",
+        "illuminate/support": "^5.6",
         "symfony/http-kernel": "^4.1"
     },
     "license": "MIT",
