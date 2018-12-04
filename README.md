@@ -14,7 +14,7 @@ Laravel Invoice
 To get the latest version of BBCode, simply require the project using [Composer](https://getcomposer.org):
 
 ```bash
-$ composer require genert/laravel-invoice
+$ composer require louiscoetzee/laravel-invoice
 ```
 
 ## Contributions & Issues
