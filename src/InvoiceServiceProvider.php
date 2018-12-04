@@ -6,7 +6,7 @@
  * Time: 12:00
  */
 
-namespace Genert\Laravel\Invoice;
+namespace LouisCoetzee\Laravel\Invoice;
 
 use Illuminate\Support\ServiceProvider;
 

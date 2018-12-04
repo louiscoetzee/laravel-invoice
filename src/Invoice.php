@@ -6,7 +6,7 @@
  * Time: 12:06
  */
 
-namespace Genert\Laravel\Invoice;
+namespace LouisCoetzee\Laravel\Invoice;
 
 use Dompdf\Dompdf;
 use Illuminate\Support\Facades\View;

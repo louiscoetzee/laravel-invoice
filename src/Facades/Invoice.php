@@ -6,7 +6,7 @@
  * Time: 12:08
  */
 
-namespace Genert\Laravel\Invoice\Facades;
+namespace LouisCoetzee\Laravel\Invoice\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
